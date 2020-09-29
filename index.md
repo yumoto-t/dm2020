@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 兵庫県立大学 社会情報科学部 「データマイニング」講義ページ（2020年度後期）
 
-You can use the [editor on GitHub](https://github.com/yumoto-t/dm2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 開講情報
+- 開講時間: 月曜2限（10:40 – 12:10）
+- 担当: 湯本高行
+- 教科書: （データ分析演習と同じ）東京大学のデータサイエンティスト育成講座 〜Pythonで手を動かして学ぶデ―タ分析〜，マイナビ出版 (2019)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yumoto-t/dm2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## お知らせ
+- 準備中
